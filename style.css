@@ -1,0 +1,12 @@
+.deposit{
+    background-color: slateblue;
+}
+.widthdrow{
+    background-color: lightsalmon;
+}
+.blance{
+    background-color: orange;
+}
+#amount-area{
+    display: none;
+}
